@@ -54,18 +54,6 @@ The dataset used for this project is available on Google Drive and can be access
 
 ---
 
-## Results
-
-The model's performance is summarized in the following metrics:
-- **Accuracy**: X%
-- **Precision**: X%
-- **Recall**: X%
-- **F1-Score**: X%
-
-Detailed results and visualizations are available in the notebook.
-
----
-
 ## Future Improvements
 
 - Incorporate additional preprocessing techniques to enhance model accuracy.
@@ -79,7 +67,3 @@ Detailed results and visualizations are available in the notebook.
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
